@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "***************************************"
 #Testing
+#Naveen Added this line while testing
 echo "Enter the value of num1"
 read num1
 echo "Enter the value of num2"
