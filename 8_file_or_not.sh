@@ -1,4 +1,5 @@
 #!/bin/bash
+sachin
 echo "****************************"
 echo "Enter the name to find the given name is a File or Director or Link"
 read name
